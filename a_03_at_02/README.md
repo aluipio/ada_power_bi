@@ -6,7 +6,7 @@
 * **Lets Code from ADA**
 * **Parceira Suzano**
 
-![Atividade](Aula 03 - Atividade 02.png)
+![Atividade](https://github.com/aluipio/ada_power_bi/blob/main/a_03_at_02/Aula%2003%20-%20Atividade%2002.png)
 
 ## Links Úteis
 
