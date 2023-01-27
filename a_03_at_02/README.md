@@ -6,6 +6,8 @@
 * **Lets Code from ADA**
 * **Parceira Suzano**
 
+![Atividade](Aula 03 - Atividade 02.png)
+
 ## Links Úteis
 
 - [Lets Code from ADA](https://ada.tech/)
