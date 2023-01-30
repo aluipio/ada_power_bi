@@ -8,7 +8,7 @@
 
 Base: **Dashboard US Crime Data**
 
-Usar a base US Crime Data disponível no Kaggle para resolver os problemas de negócio.
+Usar a base US Crime Data disponível no Kaggle para resolver os problemas de negócio..
 
 Link: https://www.kaggle.com/datasets/johnybhiduri/us-crime-data
 
