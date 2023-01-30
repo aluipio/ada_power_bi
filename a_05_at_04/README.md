@@ -21,7 +21,7 @@ Criar um dashboard para responder às perguntas, utilizando a melhor visualizaç
 - Utilizar os principais campos como filtro.
 
 
-![Atividade 04](https://github.com/aluipio/ada_power_bi/blob/main/a_05_at_04/Aula_05_Atividade_04.png)
+![Atividade 04](https://github.com/aluipio/ada_power_bi/blob/main/a_05_at_04/Aula_05_Atividade_4.png)
 
 ## Links Úteis
 
